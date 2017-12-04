@@ -1,5 +1,6 @@
-
 # Python installation
+
+(Server instructions, please ignore)
 
 ## How to manage packages
 
